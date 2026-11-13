@@ -75,7 +75,7 @@ Currently, I am focusing on developing my technical skills through academic proj
 
 ## Contact Information
 
-- **Email:** mdtafhim005@gmail.com
+- **Email:** tafhimahmed.dev@gmail.com
 - **LinkedIn:** [Tafhim Ahmed](https://www.linkedin.com/in/md-tafhim-ahmed-611733370/)
 - **GitHub:** [Tafhim-ahmed](https://github.com/Tafhim-ahmed)
 
